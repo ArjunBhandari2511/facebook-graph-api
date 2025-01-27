@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facebook-graph-api/static/css/main.2d93c17d.css",
+    "main.js": "/facebook-graph-api/static/js/main.f4f4fd2e.js",
+    "static/media/InterVariable-Italic.woff2": "/facebook-graph-api/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/facebook-graph-api/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/facebook-graph-api/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/facebook-graph-api/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/facebook-graph-api/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/facebook-graph-api/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/facebook-graph-api/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/facebook-graph-api/index.html",
+    "main.2d93c17d.css.map": "/facebook-graph-api/static/css/main.2d93c17d.css.map",
+    "main.f4f4fd2e.js.map": "/facebook-graph-api/static/js/main.f4f4fd2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d93c17d.css",
+    "static/js/main.f4f4fd2e.js"
+  ]
+}
