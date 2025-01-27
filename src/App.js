@@ -18,7 +18,7 @@ const App = () => {
   const [error, setError] = useState("");
 
   const userAccessTokenTwo =
-    "your_access_token"; // Replace with your user access token
+    "EAAQEnlDd2tABOxQOZAJWDZC0FFPGPQxQw6uiGqlAvDFQrlq11rZBomIKRvdzyhHWA8E6KRLdbsptR6y2gc03ZALQ1f1XZBDgsgHaEdR86kEUvjQtyOlNBhRQ4NyTsc7ege8ahgd7yUR3rjjqBz9LEUUS9iy32i3fjMZBs74HIi61rodYaYPJI2uImoqd8wXiIDNG69KhBzUDzNzuWN1mU3EgXBAtT4X42vZCiumgC8HSp0ZD";
 
   // Initialize Facebook SDK
   const initializeFacebookSDK = (appId) => {
